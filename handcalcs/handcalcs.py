@@ -76,6 +76,7 @@ GREEK_UPPER = {
     "Sigma": "\\Sigma",
     "Tau": "\\Tau",
     "Upsilon": "\\Upsilon",
+    "𝜙": "\\Phi",
     "Phi": "\\Phi",
     "Chi": "\\Chi",
     "Omega": "\\Omega",
